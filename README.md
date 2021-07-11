@@ -3,7 +3,8 @@ Giftz is a shopping store. It’s a web based project actually E-Commerce. By Gi
 - Development Platform: ASP.NET & WEB Technology
 - Architecture: 3 Layer
 The following features have included in this project.
-- Admin
+
+Admin
   - Add Item
   - Add Category
   - Add Brand
